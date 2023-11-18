@@ -2,4 +2,4 @@
 
 Started Nov. 14.
 
-<script src="https://tryhackme.com/badge/2470952"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/stigr1.png" alt="TryHackMe">
