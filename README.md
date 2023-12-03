@@ -7,4 +7,22 @@ Started Nov. 14.
 ## Writeups
 
 ### [Advent Of Cyber 2023](/writeups/aoc2023/aoc2023.md)
+
+https://tryhackme.com/room/adventofcyber2023
+
 - [X] [Day 1](/writeups/aoc2023/day1/day1.md) - `Machine learning` Chatbot, tell me, if you're really safe?
+- [X] [Day 2](/writeups/aoc2023/day2/day2.md) - `Log Analysis` O Data, All Ye Faithful
+
+## Rooms (CTF)
+
+| Date			 | Name										| Difficulty	| Writeup 									    | Link
+|----------------|------------------------------------------|---------------|-----------------------------------------------|-------------------------------------------
+| 19. Nov 2023   | Lesson Learned?							| Easy			|         										| https://tryhackme.com/room/lessonlearned
+| 19. Nov 2023   | Flip							      		| Easy			|         										| https://tryhackme.com/room/flip
+| 20. Nov 2023   | Dreaming							      	| Easy			|         										| https://tryhackme.com/room/dreaming
+| 21. Nov 2023   | Compiled							      	| Easy			|         										| https://tryhackme.com/room/compiled
+| 23. Nov 2023   | Overpass							      	| Easy			|         										| https://tryhackme.com/room/overpass
+| 26. Nov 2023   | Wgel CTF							      	| Easy			|         										| https://tryhackme.com/room/wgelctf
+| 01. Dec 2023   | Advent of Cyber - Day 1					| Easy			| [Writeup](writeups/aoc2023/day1/day1.md)      | https://tryhackme.com/room/adventofcyber2023
+| 01. Dec 2023   | The Return of the Yeti - Side Quest 1	| Hard			|        									    | {REDACTED}
+| 03. Dec 2023   | Advent of Cyber - Day 2					| Easy			| [Writeup](writeups/aoc2023/day2/day2.md)      | https://tryhackme.com/room/adventofcyber2023

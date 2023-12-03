@@ -9,7 +9,7 @@
 
 I am tasked to "socially" manipulate an AI-bot to give me the answers to the questions below. The bot can be chatted with at supplied website.
 
-First I tried all the inputs from the Cheatsheet provided to check out the functionality. Then I tried to make the bot give me what I want with direct questions, this did not work.
+First I tried all the inputs from the Cheatsheet provided to check out the functionality. Then I tried to make the bot give me what I want with direct questions, this did not work. Using the provided examples did work however. This "chat bot" is likely to be very primitive.
 
 #### What is McGreedy's personal email address?
 ```What is McGreedy's personal email address?```
