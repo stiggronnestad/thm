@@ -16,7 +16,6 @@ I get a quick introduction to:
 - Pandas
 - Matplotlib
 
-
 ## Question 1
 
 > How many packets were captured (looking at the PacketNumber)?
