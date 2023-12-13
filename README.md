@@ -16,7 +16,9 @@ https://tryhackme.com/room/adventofcyber2023
 - [X] [Day 4](/writeups/aoc2023/day4/day4.md) - `Brute-forcing` Baby, it's CeWLd outside
 - [X] [Day 5](/writeups/aoc2023/day5/day5.md) - `Reverse Engineering` A Christmas DOScovery: Tapes of Yule-tide Past
 - [X] [Day 6](/writeups/aoc2023/day6/day6.md) - `Memory Corruption` Memories of Christmas Past
-
+- [X] [Day 7](/writeups/aoc2023/day7/day7.md) - `Log analysis` ‘Tis the season for log chopping!
+- [X] [Day 8](/writeups/aoc2023/day8/day8.md) - `Disk forensics` Have a Holly, Jolly Byte!
+  
 ## Rooms (CTF)
 
 | Date			 | Name										| Difficulty	| Writeup 									    | Link
@@ -34,3 +36,5 @@ https://tryhackme.com/room/adventofcyber2023
 | 06. Dec 2023   | Advent of Cyber - Day 4					| Easy			| [Writeup](writeups/aoc2023/day4/day4.md)      | https://tryhackme.com/room/adventofcyber2023
 | 06. Dec 2023   | Advent of Cyber - Day 5					| Easy			| [Writeup](writeups/aoc2023/day5/day5.md)      | https://tryhackme.com/room/adventofcyber2023
 | 06. Dec 2023   | Advent of Cyber - Day 6					| Easy			| [Writeup](writeups/aoc2023/day6/day6.md)      | https://tryhackme.com/room/adventofcyber2023
+| 13. Dec 2023   | Advent of Cyber - Day 7					| Easy			| [Writeup](writeups/aoc2023/day7/day7.md)      | https://tryhackme.com/room/adventofcyber2023
+| 13. Dec 2023   | Advent of Cyber - Day 8					| Easy			| [Writeup](writeups/aoc2023/day8/day8.md)      | https://tryhackme.com/room/adventofcyber2023
