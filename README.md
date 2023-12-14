@@ -18,7 +18,8 @@ https://tryhackme.com/room/adventofcyber2023
 - [X] [Day 6](/writeups/aoc2023/day6/day6.md) - `Memory Corruption` Memories of Christmas Past
 - [X] [Day 7](/writeups/aoc2023/day7/day7.md) - `Log analysis` ‘Tis the season for log chopping!
 - [X] [Day 8](/writeups/aoc2023/day8/day8.md) - `Disk forensics` Have a Holly, Jolly Byte!
-  
+- [X] [Day 9](/writeups/aoc2023/day9/day9.md) - `Malware analysis` She sells C# shells by the C2shore
+
 ## Rooms (CTF)
 
 | Date			 | Name										| Difficulty	| Writeup 									    | Link
@@ -38,3 +39,4 @@ https://tryhackme.com/room/adventofcyber2023
 | 06. Dec 2023   | Advent of Cyber - Day 6					| Easy			| [Writeup](writeups/aoc2023/day6/day6.md)      | https://tryhackme.com/room/adventofcyber2023
 | 13. Dec 2023   | Advent of Cyber - Day 7					| Easy			| [Writeup](writeups/aoc2023/day7/day7.md)      | https://tryhackme.com/room/adventofcyber2023
 | 13. Dec 2023   | Advent of Cyber - Day 8					| Easy			| [Writeup](writeups/aoc2023/day8/day8.md)      | https://tryhackme.com/room/adventofcyber2023
+| 14. Dec 2023   | Advent of Cyber - Day 9					| Easy			| [Writeup](writeups/aoc2023/day9/day9.md)      | https://tryhackme.com/room/adventofcyber2023
