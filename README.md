@@ -19,6 +19,11 @@ https://tryhackme.com/room/adventofcyber2023
 - [✅] [Day 7](/writeups/aoc2023/day7/day7.md) - `Log analysis` ‘Tis the season for log chopping!
 - [✅] [Day 8](/writeups/aoc2023/day8/day8.md) - `Disk forensics` Have a Holly, Jolly Byte!
 - [✅] [Day 9](/writeups/aoc2023/day9/day9.md) - `Malware analysis` She sells C# shells by the C2shore
+- [✅] [Day 10](/writeups/aoc2023/day10/day10.md) - `SQL injection` Inject the Halls with EXEC Queries
+- [✅] [Day 11](/writeups/aoc2023/day11/day11.md) - `Active Directory` Jingle Bells, Shadow Spells
+- [✅] [Day 12](/writeups/aoc2023/day12/day12.md) - `Defence in depth` Sleighing Threats, One Layer at a Time
+- [✅] [Day 13](/writeups/aoc2023/day13/day13.md) - `Intrusion detection` To the Pots, Through the Walls
+- [✅] [Day 14](/writeups/aoc2023/day14/day14.md) - `Machine learning` The Little Machine That Wanted to Learn
 
 ## Rooms (CTF)
 
@@ -40,3 +45,8 @@ https://tryhackme.com/room/adventofcyber2023
 | 13. Dec 2023   | Advent of Cyber - Day 7					| Easy			| [Writeup](writeups/aoc2023/day7/day7.md)      | https://tryhackme.com/room/adventofcyber2023
 | 13. Dec 2023   | Advent of Cyber - Day 8					| Easy			| [Writeup](writeups/aoc2023/day8/day8.md)      | https://tryhackme.com/room/adventofcyber2023
 | 14. Dec 2023   | Advent of Cyber - Day 9					| Easy			| [Writeup](writeups/aoc2023/day9/day9.md)      | https://tryhackme.com/room/adventofcyber2023
+| 15. Dec 2023   | Advent of Cyber - Day 10					| Easy			| [Writeup](writeups/aoc2023/day10/day10.md)      | https://tryhackme.com/room/adventofcyber2023
+| 17. Dec 2023   | Advent of Cyber - Day 11					| Easy			| [Writeup](writeups/aoc2023/day11/day11.md)      | https://tryhackme.com/room/adventofcyber2023
+| 17. Dec 2023   | Advent of Cyber - Day 12					| Easy			| [Writeup](writeups/aoc2023/day12/day12.md)      | https://tryhackme.com/room/adventofcyber2023
+| 17. Dec 2023   | Advent of Cyber - Day 13					| Easy			| [Writeup](writeups/aoc2023/day13/day13.md)      | https://tryhackme.com/room/adventofcyber2023
+| 17. Dec 2023   | Advent of Cyber - Day 14					| Easy			| [Writeup](writeups/aoc2023/day14/day14.md)      | https://tryhackme.com/room/adventofcyber2023
