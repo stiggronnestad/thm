@@ -24,29 +24,33 @@ https://tryhackme.com/room/adventofcyber2023
 - [✅] [Day 12](/writeups/aoc2023/day12/day12.md) - `Defence in depth` Sleighing Threats, One Layer at a Time
 - [✅] [Day 13](/writeups/aoc2023/day13/day13.md) - `Intrusion detection` To the Pots, Through the Walls
 - [✅] [Day 14](/writeups/aoc2023/day14/day14.md) - `Machine learning` The Little Machine That Wanted to Learn
+- [✅] [Day 15](/writeups/aoc2023/day15/day15.md) - `Machine learning` Jingle Bell SPAM: Machine Learning Saves the Day!
+- [✅] [Day 16](/writeups/aoc2023/day16/day16.md) - `Machine learning` Can't CAPTCHA this Machine!
 
 ## Rooms (CTF)
 
 | Date			 | Name										| Difficulty	| Writeup 									    | Link
 |----------------|------------------------------------------|---------------|-----------------------------------------------|-------------------------------------------
 | 19. Nov 2023   | Lesson Learned?							| Easy			|         										| https://tryhackme.com/room/lessonlearned
-| 19. Nov 2023   | Flip							      		| Easy			|         										| https://tryhackme.com/room/flip
+|                | Flip							      		| Easy			|         										| https://tryhackme.com/room/flip
 | 20. Nov 2023   | Dreaming							      	| Easy			|         										| https://tryhackme.com/room/dreaming
 | 21. Nov 2023   | Compiled							      	| Easy			|         										| https://tryhackme.com/room/compiled
 | 23. Nov 2023   | Overpass							      	| Easy			|         										| https://tryhackme.com/room/overpass
 | 26. Nov 2023   | Wgel CTF							      	| Easy			|         										| https://tryhackme.com/room/wgelctf
 | 01. Dec 2023   | Advent of Cyber - Day 1					| Easy			| [Writeup](writeups/aoc2023/day1/day1.md)      | https://tryhackme.com/room/adventofcyber2023
-| 01. Dec 2023   | The Return of the Yeti - Side Quest 1	| Hard			|        									    | {REDACTED}
+|                | The Return of the Yeti - Side Quest 1	| Hard			|        									    | {REDACTED}
 | 03. Dec 2023   | Advent of Cyber - Day 2					| Easy			| [Writeup](writeups/aoc2023/day2/day2.md)      | https://tryhackme.com/room/adventofcyber2023
 | 06. Dec 2023   | Advent of Cyber - Day 3					| Easy			| [Writeup](writeups/aoc2023/day3/day3.md)      | https://tryhackme.com/room/adventofcyber2023
-| 06. Dec 2023   | Advent of Cyber - Day 4					| Easy			| [Writeup](writeups/aoc2023/day4/day4.md)      | https://tryhackme.com/room/adventofcyber2023
-| 06. Dec 2023   | Advent of Cyber - Day 5					| Easy			| [Writeup](writeups/aoc2023/day5/day5.md)      | https://tryhackme.com/room/adventofcyber2023
-| 06. Dec 2023   | Advent of Cyber - Day 6					| Easy			| [Writeup](writeups/aoc2023/day6/day6.md)      | https://tryhackme.com/room/adventofcyber2023
+|                | Advent of Cyber - Day 4					| Easy			| [Writeup](writeups/aoc2023/day4/day4.md)      | https://tryhackme.com/room/adventofcyber2023
+|                | Advent of Cyber - Day 5					| Easy			| [Writeup](writeups/aoc2023/day5/day5.md)      | https://tryhackme.com/room/adventofcyber2023
+|                | Advent of Cyber - Day 6					| Easy			| [Writeup](writeups/aoc2023/day6/day6.md)      | https://tryhackme.com/room/adventofcyber2023
 | 13. Dec 2023   | Advent of Cyber - Day 7					| Easy			| [Writeup](writeups/aoc2023/day7/day7.md)      | https://tryhackme.com/room/adventofcyber2023
-| 13. Dec 2023   | Advent of Cyber - Day 8					| Easy			| [Writeup](writeups/aoc2023/day8/day8.md)      | https://tryhackme.com/room/adventofcyber2023
+|                | Advent of Cyber - Day 8					| Easy			| [Writeup](writeups/aoc2023/day8/day8.md)      | https://tryhackme.com/room/adventofcyber2023
 | 14. Dec 2023   | Advent of Cyber - Day 9					| Easy			| [Writeup](writeups/aoc2023/day9/day9.md)      | https://tryhackme.com/room/adventofcyber2023
-| 15. Dec 2023   | Advent of Cyber - Day 10					| Easy			| [Writeup](writeups/aoc2023/day10/day10.md)      | https://tryhackme.com/room/adventofcyber2023
-| 17. Dec 2023   | Advent of Cyber - Day 11					| Easy			| [Writeup](writeups/aoc2023/day11/day11.md)      | https://tryhackme.com/room/adventofcyber2023
-| 17. Dec 2023   | Advent of Cyber - Day 12					| Easy			| [Writeup](writeups/aoc2023/day12/day12.md)      | https://tryhackme.com/room/adventofcyber2023
-| 17. Dec 2023   | Advent of Cyber - Day 13					| Easy			| [Writeup](writeups/aoc2023/day13/day13.md)      | https://tryhackme.com/room/adventofcyber2023
-| 17. Dec 2023   | Advent of Cyber - Day 14					| Easy			| [Writeup](writeups/aoc2023/day14/day14.md)      | https://tryhackme.com/room/adventofcyber2023
+| 15. Dec 2023   | Advent of Cyber - Day 10					| Easy			| [Writeup](writeups/aoc2023/day10/day10.md)    | https://tryhackme.com/room/adventofcyber2023
+| 17. Dec 2023   | Advent of Cyber - Day 11					| Easy			| [Writeup](writeups/aoc2023/day11/day11.md)    | https://tryhackme.com/room/adventofcyber2023
+|                | Advent of Cyber - Day 12					| Easy			| [Writeup](writeups/aoc2023/day12/day12.md)    | https://tryhackme.com/room/adventofcyber2023
+|                | Advent of Cyber - Day 13					| Easy			| [Writeup](writeups/aoc2023/day13/day13.md)    | https://tryhackme.com/room/adventofcyber2023
+|                | Advent of Cyber - Day 14					| Easy			| [Writeup](writeups/aoc2023/day14/day14.md)    | https://tryhackme.com/room/adventofcyber2023
+|                | Advent of Cyber - Day 15					| Easy			| [Writeup](writeups/aoc2023/day15/day15.md)    | https://tryhackme.com/room/adventofcyber2023
+|                | Advent of Cyber - Day 16					| Easy			| [Writeup](writeups/aoc2023/day16/day16.md)    | https://tryhackme.com/room/adventofcyber2023
